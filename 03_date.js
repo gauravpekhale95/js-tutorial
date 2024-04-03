@@ -21,6 +21,7 @@ console.log(today.getMonth() + 1); // month number 0-11
 // 4. Logical Operator : &&, || , !
 // && -> true if both are true
 // || -> true if any one is true
+
 /* 
 
 % : remainder operator
